@@ -3,6 +3,7 @@ TD-Anime4K
 [Anime4K](https://github.com/bloc97/Anime4K) is an upscaler specifically for anime style. This repository is an implementation of Anime4K in [TouchDesigner](http://www.derivative.ca/) that can be used to upscale low resolution textures to higher textures.
 
 ![](./img/exp4.png)
+![](./img/exp4_RC_SO2.png)
 ( source : [Kiki](https://krita.org/en/about/kiki/) / [Krita](https://krita.org/) / by [Tyson Tan](https://www.deviantart.com/tysontan) )
 
 ![](./img/exp2.png)
