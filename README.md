@@ -1,4 +1,4 @@
-TD-Anime4k
+TD-Anime4K
 ===
 [Anime4K](https://github.com/bloc97/Anime4K) is an upscaler specifically for anime style. This repository is an implementation of Anime4K in [TouchDesigner](http://www.derivative.ca/) that can be used to upscale low resolution textures to higher textures.
 
