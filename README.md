@@ -7,5 +7,5 @@ TD-Anime4k
 
 ---
 Author : Yea Chen <yeataro@gmail.com> \
-Source GLSL code : [Anime4K](https://github.com/bloc97/Anime4K) bloc97@GitHub \
+Source GLSL code : [Anime4K](https://github.com/bloc97/Anime4K) by [bloc97](https://github.com/bloc97)@GitHub \
 License : [MIT license](https://github.com/yeataro/TD-Anime4K/blob/master/LICENSE)
