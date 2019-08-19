@@ -12,7 +12,7 @@ TD-Anime4K
 ( [source](https://www.pixiv.net/member_illust.php?mode=medium&illust_id=43169932) by [yeataro](https://www.pixiv.net/member.php?id=833836) )
 
 ## Anime4K v1.0 RC
-Reduced texture loss, aliasing and banding in Anime4K v1.0 RC ( but here I cancel FXAA.)
+Reduced texture loss, aliasing and banding in Anime4K v1.0 RC.
 
 ![](./img/exp4_RC1.png)
 
