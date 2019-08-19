@@ -1,5 +1,9 @@
 TD-Anime4K
 ===
+[![license](https://img.shields.io/github/license/yeataro/TD-Anime4K.svg)](LICENSE)
+[![release](https://img.shields.io/github/release/yeataro/TD-Anime4K.svg)](../../releases/latest)
+[![release-date](https://img.shields.io/github/release-date/yeataro/TD-Anime4K.svg)](../../releases)
+
 [Anime4K](https://github.com/bloc97/Anime4K) is an upscaler specifically for anime style. This repository is an implementation of Anime4K in [TouchDesigner](http://www.derivative.ca/) that can be used to upscale low resolution textures to higher textures.
 
 ![](./img/exp4.png)
