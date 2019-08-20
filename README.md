@@ -13,8 +13,9 @@ TD-Anime4K
 ![](./img/exp2.png)
 ( source : Lain Iwakura / [serial experiments lain](https://en.wikipedia.org/wiki/Serial_Experiments_Lain) / [Lain TTL](https://www.nbcuni.co.jp/rondorobe/anime/lain/ttl/) )
 
-![](./img/exp3.png)
-( [source](https://www.pixiv.net/member_illust.php?mode=medium&illust_id=43169932) by [yeataro](https://www.pixiv.net/member.php?id=833836) )
+
+## Integrate with other filters
+![](./img/A4KAK.png)
 
 ## Anime4K v1.0 RC
 Reduced texture loss, aliasing and banding in Anime4K v1.0 RC.
