@@ -16,6 +16,7 @@ TD-Anime4K
 
 ## Integrate with other filters
 ![](./img/A4KAK.png)
+![](./img/WAIA4KAK.png)
 
 ## Anime4K v1.0 RC
 Reduced texture loss, aliasing and banding in Anime4K v1.0 RC.
